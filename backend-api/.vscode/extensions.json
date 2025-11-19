@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "first-triton.vscode-docker",
+        "humao.rest-client"
+    ]
+}
